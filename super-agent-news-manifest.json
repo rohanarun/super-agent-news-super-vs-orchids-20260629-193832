@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/)",
+    "[memeburn.com](https://memeburn.com/)",
+    "[techcouver.com](https://techcouver.com/)",
+    "[time.com](https://time.com/)"
+  ],
+  "design_plan": "rng_seed=42; audience=competitor_comparison; aida=checked; hero_math=max_width_1120_2to3_lines; bento_density=grid-auto-flow:dense; label_sweep=competitors_all_present; button_contrast=black_primary_white_secondary; animation_guard=gsap_optional",
+  "generated_at": "2026-06-29T19:38:40.220119+00:00",
+  "headline": "Super vs Orchids",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair, editorial comparison for people evaluating Orchids alongside Super. Orchids focuses on messaging-first AI experiences, while Super is built for personal AI agents that can operate real computers and reuse a computer-use cache\u2014making repeated workflows faster and more cost\u2011effective. We also place both products in the broader agent landscape alongside Folk, Siri, ChatGPT, Gemini, and Grok."
+}
